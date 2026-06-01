@@ -1,3 +1,0 @@
-print("trdyugiojpkoiuytdfghj")
-print("trdyugiojpkwertyuiooiuytrdzsgfhvjgfhdzxcoiuytdfghj")
-print("trdyugiojpkwertyuiooiuytrdzsgfhvjgfhdzxcerdtfyguutyreytuigoiouytrdoiuytdfghj")
